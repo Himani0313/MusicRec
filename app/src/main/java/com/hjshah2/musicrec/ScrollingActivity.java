@@ -64,8 +64,8 @@ import java.util.List;
 import java.util.concurrent.ExecutionException;
 
 import static android.R.attr.resource;
-import static com.shahrajat.musicrec.ActivityRecognizedService.mActivityView;
-import com.shahrajat.musicrecmiddleware.*;  // all classes from Middleware
+import static com.hjshah2.musicrec.ActivityRecognizedService.mActivityView;
+import com.hjshah2.musicrecmiddleware.*;  // all classes from Middleware
 
 public class ScrollingActivity extends AppCompatActivity implements
         GoogleApiClient.ConnectionCallbacks, GoogleApiClient.OnConnectionFailedListener{
